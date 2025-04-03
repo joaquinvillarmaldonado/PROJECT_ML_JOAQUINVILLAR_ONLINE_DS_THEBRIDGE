@@ -8,7 +8,7 @@ In this Machine Learning project, the goal is to develop a model that predicts t
 The objective is to identify clients with a high risk of defaulting on their payments, in order to avoid granting loans to similar profiles in the future, thus minimizing credit losses. On the other hand, the model will also help identify good clients, who have repaid or are in the process of repaying their loans, to grant them loans in the future.
 
 ### 2. Dataset 📊
-The dataset used was obtained from Kaggle and contains information about loans granted to clients, with their respective characteristics and payment status. You can access the dataset here.
+The dataset used was obtained from Kaggle and contains information about loans granted to clients, with their respective characteristics and payment status. You can access the dataset [here](https://www.kaggle.com/datasets/epsilon22/lending-club-loan-two).
 
 The dataset includes information about clients who have repaid their loans (favorable situation) and clients who have defaulted on their loans (unfavorable situation).
 

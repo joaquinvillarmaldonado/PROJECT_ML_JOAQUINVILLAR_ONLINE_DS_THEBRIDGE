@@ -8,7 +8,7 @@ En este proyecto de Machine Learning, se busca desarrollar un modelo capaz de pr
 El objetivo es identificar aquellos clientes con un alto riesgo de incumplir sus pagos, para evitar conceder préstamos a perfiles similares en el futuro, minimizando así las pérdidas crediticias. Por otro lado, el modelo también ayudará a identificar a los buenos clientes, quienes han pagado o están en proceso de pagar el crédito, para concederles préstamos en el futuro.
 
 ### 2. Dataset 📊
-El dataset utilizado se ha obtenido de Kaggle y contiene información sobre préstamos otorgados a clientes, con sus respectivas características y el estado de pago de los mismos. Puedes acceder al dataset aquí.
+El dataset utilizado se ha obtenido de Kaggle y contiene información sobre préstamos otorgados a clientes, con sus respectivas características y el estado de pago de los mismos. Puedes acceder al dataset [aquí](https://www.kaggle.com/datasets/epsilon22/lending-club-loan-two).
 
 En el dataset, se tiene información tanto de clientes que han cumplido con sus pagos (situación favorable) como de clientes que no han devuelto el préstamo (situación desfavorable).
 
